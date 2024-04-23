@@ -1,6 +1,6 @@
-<h1 align="center">### Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
-This is Meetkumar Patel, a skilled web/software developer with extensive knowledge of HTML, CSS, JavaScript, React, and Node. I am passionate about building robust application. As an engineer, I always look for an opportunity to solve real business problem. I'm a self-starter, self-motivated, team player as well as Leader of my-own! 
+This is <b>Meetkumar Patel<b>, a skilled web/software developer with extensive knowledge of HTML, CSS, JavaScript, React, and Node. I am passionate about building robust application. As an engineer, I always look for an opportunity to solve real business problem. I'm a self-starter, self-motivated, team player as well as Leader of my-own! 
 
 Read more below:
 
@@ -13,4 +13,4 @@ Read more below:
 - Data Science
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs)](https://skillicons.dev)
