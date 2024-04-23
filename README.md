@@ -12,8 +12,14 @@ Read more below:
 - Artificial Intelligence
 - Data Science
 
-### Language
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs)](https://skillicons.dev)
+### Front End Tech
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs)]
+
+### Back End Tech
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,python)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
 
 ### Cloud Tech
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
