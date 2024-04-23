@@ -5,6 +5,7 @@ This is <b>Meetkumar Patel</b>, a skilled web/software developer with extensive 
 Read more below:
 
 ### My 🖥 Skills
+- Website Design, Develop & Host, Digital Marketing, Web Analytics, SEO, Branding
 - Web App Development
 - Custome Software Development 
 - Front End Development
