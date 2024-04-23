@@ -13,7 +13,7 @@ Read more below:
 - Data Science
 
 ### Front End Tech
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs)
 
 ### Back End Tech
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,python)](https://skillicons.dev)
