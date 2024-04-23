@@ -14,3 +14,6 @@ Read more below:
 
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs)](https://skillicons.dev)
+
+### Cloud Tech
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
