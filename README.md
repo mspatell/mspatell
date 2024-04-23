@@ -5,4 +5,4 @@ This is Meetkumar Patel, a skilled web/software developer with extensive knowled
 Read more below:
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
