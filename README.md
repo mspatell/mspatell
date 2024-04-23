@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-This is <b>Meetkumar Patel</b>, a skilled web/software developer with extensive knowledge of JavaScript coupled with AWS. I am passionate about building robust application. As an engineer, I always look for an opportunity to solve real business problem. I'm a self-starter, self-motivated, team player as well as Leader of my-own! 
+This is <b>Meetkumar Patel</b>, a skilled web/software developer with extensive knowledge of JavaScript<b>(NodeJS) coupled with AWS</b>. I am passionate about building robust application. As an engineer, I always look for an opportunity to solve real business problem. I'm a self-starter, self-motivated, team player as well as Leader of my-own! 
 
 Read more below:
 
