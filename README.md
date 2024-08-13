@@ -20,7 +20,7 @@ Read more below:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nextjs,python)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresqldynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,dynamodb)](https://skillicons.dev)
 
 ### Cloud Tech
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
